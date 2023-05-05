@@ -1,6 +1,7 @@
 ## Olá! Eu sou o Askard 🖐️
 
 [![Blog](https://img.shields.io/website?label=Discord&style=for-the-badge&url=https://discord.gg/XFJZJFgRDP/)](https://discord.gg/XFJZJFgRDP)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://tropicalresources.com.br/)](https://tropicalresources.com.br/)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Askard)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/breve)
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/breve)
