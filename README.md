@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Askard 🖐️
 
 [![Blog](https://img.shields.io/website?label=Discord&style=for-the-badge&url=https://discord.gg/XFJZJFgRDP/)](https://discord.gg/XFJZJFgRDP)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Askard)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Askardev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/breve)
-[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://tropicalresources.com.br/)](https://tropicalresources.com.br/)
+[![Website](https://img.shields.io/website?label=Website&style=for-the-badge&url=https://tropicalresources.com.br/)](https://lockcode.com.br/shops/magicresources/)
 
 ![Askard GitHub stats](https://github-readme-stats.vercel.app/api?username=Askardevs&show_icons=true&theme=dracula&count_private=true&locale=pt-br)
 
